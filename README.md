@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @freeeakn
 - 👀 I’m interested in computer science and some web
 -                             like my OpenFly project
--                             or my grape lang
 - 🌱 I’m currently learning algoritms in c, c++ and 
--                 python, practice in web html and css
+-                 python, practice in web html and css and angular
