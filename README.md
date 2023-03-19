@@ -2,4 +2,4 @@
 - 👀 I’m interested in computer science and some web
 -                             like my OpenFly project
 - 🌱 I’m currently learning algoritms in c, c++ and 
--                 python, practice in web html and css and angular
+-                 python, practice in web html and css and vue
