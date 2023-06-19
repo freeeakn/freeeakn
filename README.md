@@ -4,7 +4,7 @@ I'm a computer science enthusiast who loves working with the web.
 
 ## 🔭 What I'm working on
 
-I'm currently learning algorithms in C and Python. I'm also practicing my web development skills using HTML, CSS, and VueJS.
+I'm currently learning algorithms in C and Python. I'm also practicing my web development skills using HTML, CSS, VueJS and Django.
 
 ## 🌱 What I'm learning
 
