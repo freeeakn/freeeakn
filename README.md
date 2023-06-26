@@ -25,7 +25,7 @@ I'm a big fan of open-source software and have contributed to several projects o
 
 
 [![Video_Razer](https://img.shields.io/badge/Video%20Razer-%230072C6.svg?style=flat&logo=python&logoColor=white)](https://github.com/freeeakn/video_raZer.git)
-[![Vue-Social-Network](https://img.shields.io/badge/Vue%20Social_Network-%230072C6.svg?style=flat&logo=vue&logoColor=white)](https://github.com/freeeakn/Vue-Social-Network)
+[![Vue-Social-Network](https://img.shields.io/badge/Vue%20Social_Network-%230072C6.svg?style=flat&logo=js&logoColor=white)](https://github.com/freeeakn/Vue-Social-Network)
 
 
 ---
