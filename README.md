@@ -26,7 +26,7 @@ I'm a big fan of open-source software and have contributed to several projects o
 
 [![Lookovitsa](https://img.shields.io/badge/lookovitsa-%230072C6.svg?style=flat&logo=python&logoColor=white)](https://github.com/freeeakn/stylebot.git)
 [![Vue-Social-Network](https://img.shields.io/badge/Vue%20Social_Network-%230072C6.svg?style=flat&logo=javascript&logoColor=lime)](https://github.com/freeeakn/Vue-Social-Network)
-[![TasksC](https://img.shields.io/badge/%20TaskC-%230072C6.svg?style=flat&logo=C&logoColor=white)](https://github.com/freeeakn/TasksC.git)
+[![FrayLib](https://img.shields.io/badge/%20FrayLib-%230072C6.svg?style=flat&logo=C&logoColor=white)](https://github.com/freeeakn/FrayLib)
 
 
 ---
