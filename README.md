@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/RnVE.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
 
 # Hi there, I'm Freeeakn! 👋
 
