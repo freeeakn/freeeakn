@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/2f/2f967b6e1ea75a36f625385136a300a1_w200.gif">
+<img align="right" alt="Coding" width="200" src="https://i.gifer.com/origin/2f/2f967b6e1ea75a36f625385136a300a1_w200.gif">
 
 # Hi there, I'm Freeeakn! 👋
 
