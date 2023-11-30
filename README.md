@@ -33,6 +33,8 @@ Thanks for stopping by and reading my profile! I hope to collaborate with you so
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=freeeakn)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=freeeakn)](https://github.com/freeeakn/github-profile-trophy)
+<div style={ display: flex; }>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=freeeakn)](https://git.io/streak-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=freeeakn)](https://github.com/freeeakn/github-profile-trophy)
+</div>
 
