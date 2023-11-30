@@ -30,3 +30,7 @@ You can always contact me through my GitHub profile! I'm always open to suggesti
 ---
 
 Thanks for stopping by and reading my profile! I hope to collaborate with you soon. 🤝
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=freeeakn)](https://git.io/streak-stats)
