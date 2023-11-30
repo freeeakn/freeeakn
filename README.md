@@ -33,5 +33,5 @@ Thanks for stopping by and reading my profile! I hope to collaborate with you so
 
 ---
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=freeeakn&theme=transparent&hide_border=true&locale=ru)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeeakn&layout=compact&bg_color=00000000&border=false)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=freeeakn&theme=transparent&hide_border=true&locale=ru)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeeakn&layout=compact&bg_color=00000000&hide_border=true)
   [![trophy](https://github-profile-trophy.vercel.app/?username=freeeakn)](https://github.com/freeeakn/github-profile-trophy)
