@@ -32,9 +32,7 @@ You can always contact me through my GitHub profile! I'm always open to suggesti
 Thanks for stopping by and reading my profile! I hope to collaborate with you soon. 🤝
 
 ---
-<p align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=freeeakn)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=freeeakn)](https://github.com/freeeakn/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeeakn)](https://github.com/freeeakn/github-readme-stats)
-  
-</p>
