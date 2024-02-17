@@ -24,7 +24,7 @@ You can always contact me through my GitHub profile! I'm always open to suggesti
 
 [![Lookovitsa](https://img.shields.io/badge/lookovitsa-%230072C6.svg?style=flat&logo=python&logoColor=white)](https://github.com/freeeakn/stylebot.git)
 [![Vue-Social-Network](https://img.shields.io/badge/Vue%20Social_Network-%230072C6.svg?style=flat&logo=javascript&logoColor=lime)](https://github.com/freeeakn/Vue-Social-Network)
-[![2DuoMinds](https://img.shields.io/badge/2DuoMinds-%230072C6.svg?style=flat&logo=typescript&logoColor=red)](https://github.com/freeeakn/Project_Zero)
+[![2DuoMinds](https://img.shields.io/badge/2DuoMinds-%230072C6.svg?style=flat&logo=typescript&logoColor=black)](https://github.com/freeeakn/Project_Zero)
 [![FrayLib](https://img.shields.io/badge/%20FrayLib-%230072C6.svg?style=flat&logo=C&logoColor=white)](https://github.com/freeeakn/FrayLib)
 
 
