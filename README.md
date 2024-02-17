@@ -6,7 +6,7 @@ I'm a computer science enthusiast who loves working with the web.
 
 ## 🔭 What I'm working on
 
-I'm currently learning algorithms in C and Python. I'm also practicing my web development skills using HTML, CSS, VueJS, React and Django.
+I'm currently learning algorithms in C and Python. I'm also practicing my web development skills using HTML, CSS, VueJS, React, Next and Django.
 
 ## 🌱 What I'm learning
 
@@ -24,6 +24,7 @@ You can always contact me through my GitHub profile! I'm always open to suggesti
 
 [![Lookovitsa](https://img.shields.io/badge/lookovitsa-%230072C6.svg?style=flat&logo=python&logoColor=white)](https://github.com/freeeakn/stylebot.git)
 [![Vue-Social-Network](https://img.shields.io/badge/Vue%20Social_Network-%230072C6.svg?style=flat&logo=javascript&logoColor=lime)](https://github.com/freeeakn/Vue-Social-Network)
+[![2DuoMinds](https://img.shields.io/badge/Vue%20Social_Network-%230072C6.svg?style=flat&logo=typescript&logoColor=blue)](https://github.com/freeeakn/Project_Zero)
 [![FrayLib](https://img.shields.io/badge/%20FrayLib-%230072C6.svg?style=flat&logo=C&logoColor=white)](https://github.com/freeeakn/FrayLib)
 
 
