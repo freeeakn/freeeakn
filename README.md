@@ -1,37 +1,103 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+# 👋 Hi there, I'm Freeeakn
 
-# Hi there, I'm Freeeakn! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9596&random=false&width=435&lines=Computer+Science+Enthusiast;Full+Stack+Developer;Blockchain+Developer;Go+Developer" alt="Typing SVG" />
+</div>
 
-I'm a computer science enthusiast who loves working with the web.
+<div align="center">
+  <a href="https://github.com/freeeakn">
+    <img src="https://img.shields.io/github/followers/freeeakn?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=freeeakn&color=2D9596" alt="Profile views"/>
+</div>
 
-## 🔭 What I'm working on
+## 🚀 About Me
 
-I'm currently learning algorithms in C and Python. I'm also practicing my web development skills using JavaScript, TypeScript, Vue, React, Redux, Next and Django.
+I'm a passionate developer from Novosibirsk, focused on web development and blockchain technologies. I love creating innovative solutions and learning new technologies. My journey in tech has led me through various domains - from low-level systems programming to modern web development and distributed systems.
 
-## 🌱 What I'm learning
+## 🔭 Current Projects
 
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a><img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="vite" width="40" height="40"/></a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> <a><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="40" height="40"/></a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" width="40" height="40"/></a> <a><img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="redux" width="40" height="40"/></a>  <a><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="nextJs" width="40" height="40"/></a> <img src="https://skillicons.dev/icons?i=mongodb,nestjs" /> </p>
+- [AetherWave](https://github.com/freeeakn/AetherWave) - Blockchain network messenger based on distributed computing
+- [RelateUI](https://github.com/RelateCOM/relateui) - A comprehensive React component library for rapid interface development
+- [Personal Website](https://freeeakn.github.io) - My portfolio and blog
 
-## 📫 How to reach me
+## 💻 Tech Stack
 
-You can always contact me through my GitHub profile! I'm always open to suggestions and new ideas.
+<div align="center">
+
+### Languages & Core
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Databases
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=freeeakn&theme=dark" alt="GitHub Streak Stats"/>
+</div>
+
+## 🌱 Currently Learning
+
+- Advanced Algorithms and Data Structures
+- Blockchain Development and Smart Contracts
+- System Design and Architecture
+- DevOps practices and Cloud Native technologies
+- Distributed Systems and P2P Networks
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maaachine)
+[![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/machineee)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://freeeakn.github.io)
+
+</div>
+
+## ✨ Featured Projects
+
+<div align="center">
+
+[![AetherWave](https://img.shields.io/badge/AetherWave-P2P_Messenger-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/freeeakn/AetherWave)
+[![Cflappy](https://img.shields.io/badge/Cflappy-SDL2_Game-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/freeeakn/Cflappy)
+[![Lookovitsa](https://img.shields.io/badge/Lookovitsa-Python_Bot-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/freeeakn/stylebot.git)
+[![Vue-Social-Network](https://img.shields.io/badge/Vue_Social_Network-Social_Platform-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/freeeakn/Vue-Social-Network)
+[![OpenFly-Blog](https://img.shields.io/badge/OpenFly_Blog-Modern_Blog-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/OpenFlyGroup/OpenFly-Blog.git)
+[![FrayLib](https://img.shields.io/badge/FrayLib-C_Library-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/freeeakn/FrayLib)
+
+</div>
 
 ---
 
-
-### ✨ My Projects
-
-
-[![Lookovitsa](https://img.shields.io/badge/lookovitsa-%230072C6.svg?style=flat&logo=python&logoColor=white)](https://github.com/freeeakn/stylebot.git)
-[![Vue-Social-Network](https://img.shields.io/badge/Vue%20Social_Network-%230072C6.svg?style=flat&logo=javascript&logoColor=lime)](https://github.com/freeeakn/Vue-Social-Network)
-[![OpenFly-Blog](https://img.shields.io/badge/OpenFly-Blog-%230072C6.svg?style=flat&logo=typescript&logoColor=black)](https://github.com/OpenFlyGroup/OpenFly-Blog.git)
-[![FrayLib](https://img.shields.io/badge/%20FrayLib-%230072C6.svg?style=flat&logo=C&logoColor=white)](https://github.com/freeeakn/FrayLib)
-
-
----
-
-Thanks for stopping by and reading my profile! I hope to collaborate with you soon. 🤝
-
----
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=freeeakn&theme=transparent&hide_border=true&locale=ru)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeeakn&layout=compact&bg_color=00000000&hide_border=true)
+<div align="center">
+  <i>Thanks for stopping by and reading my profile! I hope to collaborate with you soon.</i> 🤝
+</div>
