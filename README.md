@@ -89,7 +89,7 @@ I'm a passionate developer from Novosibirsk, focused on web development and bloc
 
 [![AetherWave](https://img.shields.io/badge/AetherWave-P2P_Messenger-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/freeeakn/AetherWave)
 [![Cflappy](https://img.shields.io/badge/Cflappy-SDL2_Game-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/freeeakn/Cflappy)
-[![Fless-client](https://img.shields.io/badge/Fless_client-%234FC08D.svg?style=for-the-badge&logo=gnome&logoColor=white)](https://github.com/freeeakn/fless-client)
+[![Fless-client](https://img.shields.io/badge/Fless_client-VPN_UI_client-%234FC08D.svg?style=for-the-badge&logo=gnome&logoColor=white)](https://github.com/freeeakn/fless-client)
 
 </div>
 
