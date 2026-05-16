@@ -89,10 +89,7 @@ I'm a passionate developer from Novosibirsk, focused on web development and bloc
 
 [![AetherWave](https://img.shields.io/badge/AetherWave-P2P_Messenger-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/freeeakn/AetherWave)
 [![Cflappy](https://img.shields.io/badge/Cflappy-SDL2_Game-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/freeeakn/Cflappy)
-[![Lookovitsa](https://img.shields.io/badge/Lookovitsa-Python_Bot-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/freeeakn/stylebot.git)
-[![Vue-Social-Network](https://img.shields.io/badge/Vue_Social_Network-Social_Platform-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/freeeakn/Vue-Social-Network)
-[![OpenFly-Blog](https://img.shields.io/badge/OpenFly_Blog-Modern_Blog-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/OpenFlyGroup/OpenFly-Blog.git)
-[![FrayLib](https://img.shields.io/badge/FrayLib-C_Library-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/freeeakn/FrayLib)
+[![Fless-client](https://img.shields.io/badge/Fless_client-%234FC08D.svg?style=for-the-badge&logo=gnome&logoColor=white)](https://github.com/freeeakn/fless-client)
 
 </div>
 
