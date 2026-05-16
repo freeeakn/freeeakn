@@ -18,7 +18,6 @@ I'm a passionate developer from Novosibirsk, focused on web development and bloc
 ## 🔭 Current Projects
 
 - [AetherWave](https://github.com/freeeakn/AetherWave) - Blockchain network messenger based on distributed computing
-- [RelateUI](https://github.com/RelateCOM/relateui) - A comprehensive React component library for rapid interface development
 - [Personal Website](https://freeeakn.github.io) - My portfolio and blog
 - [Fless-client](https://github.com/freeeakn/fless-client) - Vless UI client for linux
 
